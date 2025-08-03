@@ -1,6 +1,6 @@
 - Web developer, experience with HTML, CSS, JavaScript, TypeScript, React, Node.js, Express
 - I work with C++, C, WebAssembly (WASM), and enjoy data science projects
-- I also build plugins for Obsidian MD
+- I also produce music
 - [Portfolio Website](https://k0src.github.io/)
 
 <div style="display: flex; justify-content: center;">
